@@ -1,11 +1,12 @@
 <h1 align="center">Java, Spring y Thymeleaf </h1>
-<hr>
 <p align="left">A continuacion veran distintos ejemplos aplicables a proyectos Spring</p>
 
 <h3 align="left">Perros V1 MySQL</h3>
+<hr>
 <p align="left">Es un ejemplo basico donde se pueden cargar perros y darlos de alta o baja. -Base de datos utilizada MySQL</p>
 
 <h3 align="left">Perros V1.2 Mail Sender</h3>
+<hr>
 <p align="left">Es un ejemplo basico donde se pueden cargar perros y darlos de alta o baja y enviar por email el perro cargado.</p>
 
 <h3 align="left">Perros V1.3 Scheduled</h3>
