@@ -2,7 +2,7 @@
 <p align="left">A continuacion veran distintos ejemplos aplicables a proyectos Spring</p>
 
 <h3 align="left">Perros V1 MySQL</h3>
-<hr>
+<hr style="border:1px;">
 <p align="left">Es un ejemplo basico donde se pueden cargar perros y darlos de alta o baja. -Base de datos utilizada MySQL</p>
 
 <h3 align="left">Perros V1.2 Mail Sender</h3>
