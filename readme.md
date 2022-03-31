@@ -1,7 +1,5 @@
 <h1 align="center">Java, Spring y Thymeleaf </h1>
-<p align="left">A continuacion veran distintos ejemplos aplicables a proyectos Spring</p>
-<br>
-<hr style="border:1px;">
+<h3 align="left">A continuacion veran distintos ejemplos aplicables a proyectos Spring</h3>
 <br>
 
 <h3 align="left">Perros V1 MySQL</h3>
