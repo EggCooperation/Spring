@@ -5,8 +5,8 @@ Configuraciones iniciales del proyecto - Entidades, Servicios y Repositorio de A
 #### V2: 
 Controladores Autor, Libro y Editorial. Portal Controlador.
 
-####V3: 
+#### V3: 
 Spring Security - Clase Usuario - Login y Registro.
 
-####V4: 
+#### V4: 
 Carga de Imagen - clases y controlador "ResponseEntity" de Imagen
